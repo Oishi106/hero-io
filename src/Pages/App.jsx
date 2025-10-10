@@ -16,10 +16,16 @@ const App = () => {
 
   return (
     <div>
+      <div className='text-center py-5'>
+        <h2 className='font-bold py-3 text-[38px]'>Our All Applications</h2>
+        <p className='text-[#627382] text-[20px]'>
+          Explore All Apps on the Market developed by us. We code for Millions
+        </p>
+      </div>
       <div className='flex justify-between py-5 items-center mx-auto w-11/12'>
         <h1 className='text-3xl font-semibold'>
-          All Products{' '}
-          <span className='text-sm text-gray-500'>
+         {' '}
+          <span className='text-[22px]'>
             ({searchedProducts.length}) Products Found.
           </span>
         </h1>

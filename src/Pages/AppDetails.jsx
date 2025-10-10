@@ -1,7 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router'
 import useProducts from '../hooks/useProducts'
-import { updateList } from '../utils/localStorage'
 import { Bar, BarChart, CartesianGrid, Legend, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts'
 
 const AppDetails = () => {
@@ -11,17 +10,17 @@ const AppDetails = () => {
  const app=products.find(p=>p.id===Number(id))
 
  const {image,title,downloads,ratingAvg,companyName,reviews,ratings,description,size}=app || {}
-//  function for chart data
+
 
   return (
   <div>
-    {/* review part */}
+    
     <div className=' flex flex-col md:flex-row  max-h-[400px] items-center gap-5  p-5  bg-base-300  rounded-2xl mx-auto w-11/12'>
-    {/* image div */}
+    
     <div className=' ml-10 '>
       <img className='p-4 max-h-[300px]  rounded-4xl object-contain' src={image} alt="" />
     </div>
-    {/* text part */}
+    
     <div>
    <div className='mb-3 border-b-1 border-gray-300 pb-3 '>
      <h1 className='font-bold text-4xl'>{title}</h1>
