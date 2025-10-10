@@ -29,7 +29,8 @@ const AppDetails = () => {
     setInstall(true)
   }
 
-  if (loading) return <div>Loading........</div>
+  if (loading) return <span className="loading loading-dots loading-xl"></span>
+
   if (!app) return <div className='text-center text-2xl mt-10'>App not found</div>
 
   const { image, title, downloads, ratingAvg, companyName, reviews, ratings, description, size } = app
