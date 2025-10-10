@@ -32,7 +32,7 @@ const Navbar = () => {
               <NavLink to='/'>Home</NavLink>
             </li>
             <li className="text-purple-600 font-semibold">
-              <NavLink to='/products'>Apps</NavLink>
+              <NavLink to='/app'>Apps</NavLink>
             </li>
             <li className="text-purple-600 font-semibold">
               <NavLink to='/wishlist'>Installation</NavLink>
