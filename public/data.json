@@ -1,0 +1,527 @@
+[
+  {
+    "image": "https://i.ibb.co.com/C32pYcKC/Photo-Editing-Pro.jpg",
+    "title": "Photo Planner: Photo Editing Pro",
+    "companyName": "TechSoft",
+    "id": 1,
+    "description": "Photo Planner: Photo Editing Pro helps you easily turn your pictures into something beautiful. You can crop, adjust lighting, add filters, and even fix colors with just a few taps. Whether you’re editing selfies, travel photos, or product shots, this app gives you everything you need to make them stand out. It’s simple to use, fast, and perfect for beginners and pros alike. You can organize your edits, save your favorite styles, and share them instantly on social media. If you love making your photos look amazing, this planner will make editing fun and stress-free.",
+    "size": 50,
+    "reviews": 1200,
+    "ratingAvg": 4.8,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 620 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9YkMDM9/Weather-Planner.jpg",
+    "title": "Weather Planner: Updates & Forecast",
+    "companyName": "SkyTech",
+    "id": 2,
+    "description": "Weather Planner: Updates & Forecast keeps you prepared for any day, rain or shine. You can check hourly and weekly forecasts, view live weather maps, and get alerts for storms or temperature changes. The app’s simple design makes it easy to use and understand at a glance. Whether you’re planning a picnic, a trip, or just your daily commute, you’ll always know what to expect. Customize it to your location and see real-time updates right on your screen. Stay ready and make smarter plans with clear, accurate, and friendly weather information every day.",
+    "size": 30,
+    "reviews": 800,
+    "ratingAvg": 4.5,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Gfynpd5f/fitness-Tracker.jpg",
+    "title": "Fitness Planner: Daily Workouts",
+    "companyName": "HealthPlus",
+    "id": 3,
+    "description": "Fitness Planner: Daily Workouts is your everyday fitness buddy that helps you stay active and strong. It includes step-by-step workout plans, exercise timers, and progress tracking so you can reach your goals faster. Whether you want to lose weight, build muscle, or just stay fit, it adjusts to your level and time. You can also track calories burned, monitor performance, and set new challenges for yourself. The app keeps your motivation high with daily reminders and easy routines you can do at home or in the gym. It’s your perfect workout partner.",
+    "size": 40,
+    "reviews": 1500,
+    "ratingAvg": 4.7,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 780 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Dg6pMCgr/Notes-Planner.jpg",
+    "title": "Notes Planner: Organize Tasks",
+    "companyName": "BrainTech",
+    "id": 4,
+    "description": "Notes Planner: Organize Tasks makes writing and organizing notes easy and fun. You can quickly jot down ideas, lists, and reminders in a clean and colorful interface. Add categories, set priorities, and mark things complete as you go. Whether you’re planning your studies, work tasks, or personal goals, this app helps you stay on top of everything. You can sync your notes, attach images, and find anything quickly with the built-in search. It’s light, simple, and great for people who love to keep life neat and clear. Stay organized with ease.",
+    "size": 25,
+    "reviews": 950,
+    "ratingAvg": 4.6,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/35Tztww9/Music.jpg",
+    "title": "Music Planner: Streaming & Sound",
+    "companyName": "SoundWave",
+    "id": 5,
+    "description": "Music Planner: Streaming & Sound lets you enjoy your favorite tunes anytime, anywhere. You can create playlists, explore trending tracks, and listen to music offline. The clean interface and powerful audio controls make it perfect for both casual listeners and music lovers. Discover artists, organize your songs by mood, and customize your sound experience. Whether you’re studying, driving, or relaxing, this app brings the right music to every moment. It also recommends songs you’ll love based on your taste. Enjoy music the way you like it — simple, smart, and smooth.",
+    "size": 60,
+    "reviews": 2000,
+    "ratingAvg": 4.9,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1470 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZSvGnz1/Travel-Planner.jpg",
+    "title": "Travel Planner: Trips & Routes",
+    "companyName": "GlobeTrot",
+    "id": 6,
+    "description": "Travel Planner: Trips & Routes is the perfect companion for all your adventures. It helps you plan trips, find routes, and explore new destinations with ease. You can save favorite spots, create itineraries, and estimate travel times. The app gives you maps, guides, and even weather info for every location. Whether you’re traveling solo or with friends, it keeps everything organized and stress-free. It’s light, easy to use, and helps you make the most out of your journeys. Turn every trip into a smooth experience with this travel planner.",
+    "size": 35,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spXT8NDj/language-Larner.png",
+    "title": "Language Planner: Learn & Practice",
+    "companyName": "EduTech",
+    "id": 7,
+    "description": "Language Planner: Learn & Practice helps you learn new languages easily through fun lessons and real practice. You can study vocabulary, grammar, and pronunciation all in one place. With interactive exercises and daily goals, you’ll stay motivated and improve faster. The app supports multiple languages and adapts to your level, so you can learn at your own pace. Whether you’re preparing for exams, travel, or just personal growth, it makes learning enjoyable. Simple design, short lessons, and real-life examples make it the perfect language buddy.",
+    "size": 45,
+    "reviews": 1300,
+    "ratingAvg": 4.7,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 690 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q7y3YGgr/recipe-Book.png",
+    "title": "Recipe Planner: Cooking Ideas",
+    "companyName": "CookMaster",
+    "id": 8,
+    "description": "Recipe Planner: Cooking Ideas makes cooking fun and easy. You can browse hundreds of recipes, organize your favorites, and even plan your weekly meals. Each recipe comes with step-by-step instructions and clear photos. Whether you’re a beginner or a pro, this app helps you make delicious food every time. You can also create your own recipes and share them with others. It’s great for trying new dishes, exploring cuisines, and keeping all your cooking ideas in one place. Cook smarter and enjoy every meal with Recipe Planner.",
+    "size": 30,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZsvQjjN/task.jpg",
+    "title": "Task Planner: Manage Tasks & Goals",
+    "companyName": "ProductivityPlus",
+    "id": 9,
+    "description": "Task Planner: Manage Tasks & Goals helps you take control of your day with ease. You can add tasks, set priorities, and track your progress all in one place. It’s perfect for students, professionals, or anyone who wants to stay organized. The app lets you divide big goals into smaller steps and mark them as complete. You’ll get reminders and progress insights that keep you motivated. It’s designed to be simple, colorful, and easy to use. Manage your life and hit your goals with confidence using this planner.",
+    "size": 55,
+    "reviews": 1600,
+    "ratingAvg": 4.8,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y7hQdSdY/News.jpg",
+    "title": "News Planner: Daily Updates",
+    "companyName": "InfoTech",
+    "id": 10,
+    "description": "News Planner: Daily Updates keeps you informed with the latest stories from around the world. You can choose topics you care about — tech, sports, politics, or entertainment — and read news that matters most. The app gives short summaries, so you don’t waste time scrolling endlessly. It’s quick, simple, and easy to use anytime. You can bookmark articles, share news, and get daily highlights in one clean interface. Stay up to date with accurate, fresh, and interesting content every day without the clutter.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.2,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 200 }
+    ]
+  }
+  ,
+  {
+    "image": "https://i.ibb.co.com/Xr7xWvqY/Budget-Planner.jpg",
+    "title": "Budget Planner: Track Expenses",
+    "companyName": "FinancePro",
+    "id": 11,
+    "description": "Budget Planner: Track Expenses helps you manage your money smarter. You can record daily spending, set budgets, and track where your money goes each month. The app shows clear charts and reminders so you stay within limits. It’s simple to add income, categorize expenses, and see savings grow. Perfect for students, families, or anyone who wants to save better. You’ll always know where every taka goes, and can plan for future goals easily. Make budgeting stress-free and rewarding with this friendly money tracker.",
+    "size": 50,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fYMs712h/Mindfulness.jpg",
+    "title": "Mindfulness Planner: Daily Meditate",
+    "companyName": "ZenTech",
+    "id": 12,
+    "description": "Mindfulness Planner: Daily Meditate helps you relax and build a calm routine every day. You can follow guided meditations, track your mood, and set reminders for short breathing breaks. It’s great for beginners and those already practicing mindfulness. The app’s soothing visuals and gentle sounds make each session peaceful. You can see your progress over time and notice how stress decreases when you practice regularly. Take a few minutes each day to find peace and focus your mind with this easy meditation companion.",
+    "size": 45,
+    "reviews": 1400,
+    "ratingAvg": 4.9,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 1120 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bgVPRDhg/photo.webp",
+    "title": "Photo Planner: Organize Gallery",
+    "companyName": "ImageWorks",
+    "id": 13,
+    "description": "Photo Planner: Organize Gallery keeps all your pictures neat and easy to find. You can sort photos by album, date, or event, and create personalized collections. The app loads fast and keeps your gallery clutter-free. Add tags, favorite important memories, and view photos in a clean layout. You can even back them up or share directly from the app. Whether you have thousands of images or just a few, this tool helps you enjoy your memories without confusion. Stay organized and make your gallery look perfect effortlessly.",
+    "size": 60,
+    "reviews": 1800,
+    "ratingAvg": 4.7,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BSWHWLV/n.jpg",
+    "title": "News Planner: Aggregate Info",
+    "companyName": "MediaTech",
+    "id": 14,
+    "description": "News Planner: Aggregate Info collects all the top stories in one simple app. You can browse by topics, regions, or your interests, so you always get relevant updates. It saves time by summarizing long articles and giving quick facts. You can turn on notifications for breaking news and stay informed throughout the day. The clean layout makes reading comfortable with no distractions. Whether it’s world news or your local area, everything is just a tap away. Stay informed, save time, and read smarter every day.",
+    "size": 35,
+    "reviews": 950,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZzB3NKm/Fitness.jpg",
+    "title": "Fitness Planner: Buddy Workouts",
+    "companyName": "FitLife",
+    "id": 15,
+    "description": "Fitness Planner: Buddy Workouts helps you stay fit with friends or alone. You can create workout challenges, track your steps, and follow routines that match your goals. The app gives you reminders, calorie tracking, and progress charts to keep you on track. You can share achievements, invite friends, and celebrate milestones together. It’s simple, motivating, and perfect for building a consistent fitness habit. Whether you’re doing yoga, gym, or home exercises, this planner helps you stay focused and have fun while improving your health.",
+    "size": 50,
+    "reviews": 1300,
+    "ratingAvg": 4.6,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 595 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cSsVMgrd/Language.jpg",
+    "title": "Language Planner: Tutor Sessions",
+    "companyName": "EduWorld",
+    "id": 16,
+    "description": "Language Planner: Tutor Sessions gives you personal language learning support with interactive lessons and quizzes. You can practice speaking, listening, and writing with fun exercises. It’s like having a personal tutor in your pocket. The app tracks your daily streak, corrects pronunciation, and helps you build real confidence. Choose from popular languages and progress step by step. Ideal for beginners or anyone brushing up skills. Learn anytime, anywhere, and see yourself improve every day while having fun learning new words and phrases.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.4,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 460 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/rRrwm2ny/m.jpg",
+    "title": "Mindfulness Planner: Focus Daily",
+    "companyName": "ZenLife",
+    "id": 17,
+    "description": "Mindfulness Planner: Focus Daily helps you find calmness and focus in your everyday life. With guided breathing, focus timers, and relaxing soundscapes, it’s perfect for anyone who feels stressed. You can set small daily goals and track your mindfulness journey easily. The app reminds you to take breaks and breathe deeply when life feels busy. Build habits that help you stay centered and happy. It’s your daily reminder to slow down, reflect, and care for your mind gently and naturally.",
+    "size": 45,
+    "reviews": 1100,
+    "ratingAvg": 4.8,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 680 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0jvqqVQy/r.webp",
+    "title": "Recipe Planner: Master Cooking",
+    "companyName": "CookWorld",
+    "id": 18,
+    "description": "Recipe Planner: Master Cooking brings thousands of recipes to your kitchen. You can search by ingredients, save your favorites, and learn new techniques. Each recipe is easy to follow and includes preparation time, nutrition facts, and photos. The app also lets you plan meals for the week and create a grocery list instantly. From quick snacks to full dinners, you’ll find endless inspiration. Cooking becomes fun and simple, helping you impress friends and family with tasty homemade dishes anytime.",
+    "size": 35,
+    "reviews": 800,
+    "ratingAvg": 4.5,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 355 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3yNbnkGp/travell.webp",
+    "title": "Travel Planner: Trip Planning & Explore",
+    "companyName": "GlobeTrek",
+    "id": 19,
+    "description": "Travel Planner: Trip Planning & Explore helps you organize adventures with ease. You can create detailed itineraries, check flight details, and explore must-visit attractions. The app gives travel tips, expense tracking, and weather updates for destinations worldwide. Save your favorite places, share your trips, and get inspiration from travelers. Whether it’s a weekend getaway or a long vacation, it keeps everything tidy. Enjoy smoother journeys, stress-free planning, and discover the world your way — smart and simple.",
+    "size": 40,
+    "reviews": 950,
+    "ratingAvg": 4.6,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 395 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TDKV4GCw/Taskk.jpg",
+    "title": "Task Planner: Organize Projects",
+    "companyName": "ProductiveApp",
+    "id": 20,
+    "description": "Task Planner: Organize Projects is designed to make productivity simple. Add projects, create task lists, and assign deadlines easily. It helps you track what’s pending, what’s done, and what’s coming next. You can color-code tasks, get daily reminders, and stay on top of your schedule. Whether it’s for study, work, or personal goals, it keeps everything under control. The clean layout and progress bar make it satisfying to use. Stay motivated and achieve more with less stress using this planner.",
+    "size": 55,
+    "reviews": 1200,
+    "ratingAvg": 4.7,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 660 }
+    ]
+  }
+,
+  {
+    "image": "https://i.ibb.co.com/xnTk8Z6/musicc.jpg",
+    "title": "Music Planner: Player & Organizer",
+    "companyName": "SoundWorld",
+    "id": 21,
+    "description": "Music Planner: Player & Organizer helps you enjoy your favorite songs your way. Build playlists, sort tracks by mood, and manage your music library easily. The app has a clean, modern player with smooth controls, equalizer options, and offline play. You can explore new artists, share songs with friends, and get recommendations that fit your taste. Whether you’re relaxing or on the move, this planner brings all your sounds together in one beautiful space. Music feels more personal, organized, and enjoyable with every play.",
+    "size": 60,
+    "reviews": 1800,
+    "ratingAvg": 4.9,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1270 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9QpzN6Y/weather.jpg",
+    "title": "Weather Planner: Tracker & Forecast",
+    "companyName": "SkyNet",
+    "id": 22,
+    "description": "Weather Planner: Tracker & Forecast keeps you one step ahead of the skies. Get daily and weekly updates, live radar maps, and instant alerts for storms or rainfall. You can customize your location list, choose temperature units, and even plan activities based on forecasts. The simple layout makes it easy to read at a glance. Whether you’re planning a trip, a run, or a picnic, you’ll always know what to expect. Stay prepared for every season with reliable, clear, and friendly forecasts.",
+    "size": 35,
+    "reviews": 900,
+    "ratingAvg": 4.4,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4gJ19bVQ/Languagee.jpg",
+    "title": "Language Planner: Coach & Guide",
+    "companyName": "EduPro",
+    "id": 23,
+    "description": "Language Planner: Coach & Guide makes language learning simple and enjoyable. Practice speaking, reading, and listening through daily lessons that feel like games. You can chat with an AI tutor, test your grammar, and track your progress with badges. Choose your pace and focus on the areas you need most. It supports several languages and adapts lessons as you improve. The friendly design keeps you motivated and confident every step of the way. Learn smarter and faster, right from your phone.",
+    "size": 40,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 540 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zWzzwSw0/Study-Planner.jpg",
+    "title": "Study Planner: Daily Focus & Succeed",
+    "companyName": "EduSmart",
+    "id": 24,
+    "description": "Study Planner: Daily Focus & Succeed helps students plan their studies easily. You can create subject schedules, set reminders for assignments, and track progress across topics. The app’s clean layout keeps your to-dos visible and priorities clear. It sends focus reminders and study break alerts to improve your habits. Whether preparing for exams or revising daily lessons, it keeps everything organized. Study smarter, stay motivated, and reach your academic goals with a routine that really works for you.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.5,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 350 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hJF9zm2z/Goal-Planner.jpg",
+    "title": "Goal Planner: Set Goals & Achieve More",
+    "companyName": "LifeGoals",
+    "id": 25,
+    "description": "Goal Planner: Set Goals & Achieve More motivates you to dream big and take real steps to reach them. You can set clear goals, break them into tasks, and track milestones easily. Add reminders, visualize progress, and celebrate achievements along the way. It’s great for personal growth, fitness, career, or learning goals. The simple interface keeps everything focused so you never lose direction. Turn your plans into action and feel proud of your progress every day with this inspiring app.",
+    "size": 35,
+    "reviews": 850,
+    "ratingAvg": 4.6,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5hWNJhzS/Habit.jpg",
+    "title": "Habit Planner: Track Habits & Build Consistency",
+    "companyName": "HabitPro",
+    "id": 26,
+    "description": "Habit Planner: Track Habits & Build Consistency helps you form good routines that stick. Add daily habits, mark completions, and view your streaks grow day by day. You can customize reminders and colors for each habit, making it fun to follow progress. Whether you’re trying to drink more water, read daily, or wake up early, this app keeps you accountable. Watch your small actions turn into lasting success. Stay consistent and build the life you want — one habit at a time.",
+    "size": 30,
+    "reviews": 800,
+    "ratingAvg": 4.4,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 385 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y4771dCG/Focus.jpg",
+    "title": "Focus Planner: Time Management",
+    "companyName": "FocusTech",
+    "id": 27,
+    "description": "Focus Planner: Time Management helps you make the most of every hour. Plan tasks, set timers, and work in focused sessions with gentle break reminders. You can use Pomodoro-style tracking or build your own routine. The app shows how you spend time and helps you avoid distractions. It’s perfect for students, remote workers, or anyone balancing a busy life. Stay organized, productive, and calm while achieving more without burnout. Manage your time the smart way with Focus Planner.",
+    "size": 35,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 415 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/60vcz67W/productivityy.jpg",
+    "title": "Productivity Planner: Boost Efficiency",
+    "companyName": "ProductiveLife",
+    "id": 28,
+    "description": "Productivity Planner: Boost Efficiency helps you get more done with less stress. Create daily plans, set focus goals, and track your accomplishments with visual progress bars. It’s ideal for anyone wanting to manage time and energy better. You can group similar tasks, schedule breaks, and see weekly reports of your performance. The app motivates you with smart reminders and rewarding visuals. Stay consistent, organized, and confident while building a routine that works perfectly for you.",
+    "size": 50,
+    "reviews": 1200,
+    "ratingAvg": 4.8,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/G4hbGfGJ/time.webp",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "OrganizePro",
+    "id": 29,
+    "description": "Time Planner: Schedule & Tasks is your all-in-one organizer for a balanced life. Plan your day hour by hour, create to-do lists, and never miss an important deadline again. The app gives you daily, weekly, and monthly calendar views for clear planning. You can sync tasks, set alarms, and review your time usage easily. Its colorful yet simple design keeps productivity light and enjoyable. Perfect for students, workers, or families who want structure without stress. Stay ahead of your schedule and feel in control every single day.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.7,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 495 }
+    ]
+  }
+]
+
