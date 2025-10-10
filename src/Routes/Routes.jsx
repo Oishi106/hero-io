@@ -2,9 +2,9 @@ import { createBrowserRouter } from "react-router";
 import Home from "../Pages/Home";
 import MainLayout from "../Layouts/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
-import Wishlist from "../Pages/Wishlist";
 import App from "../Pages/App";
 import AppDetails from "../Pages/AppDetails";
+import Installation from "../Pages/Installation";
 
 // named export
 const router = createBrowserRouter([
@@ -25,8 +25,8 @@ const router = createBrowserRouter([
         element: <App />,
       },
       {
-        path: "/wishlist",
-        element: <Wishlist />,
+        path: "/installation",
+        element: <Installation />,
       },
       {
         path: "/app/:id",

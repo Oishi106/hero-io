@@ -35,7 +35,7 @@ const Navbar = () => {
               <NavLink to='/app'>Apps</NavLink>
             </li>
             <li className="text-purple-600 font-semibold">
-              <NavLink to='/wishlist'>Installation</NavLink>
+              <NavLink to='/installation'>Installation</NavLink>
             </li>
           </ul>
         </div>
@@ -55,7 +55,7 @@ const Navbar = () => {
             <NavLink to='/app'>Apps</NavLink>
           </li>
           <li className="text-purple-600 font-semibold">
-            <NavLink to='/wishlist'>Installation</NavLink>
+            <NavLink to='/installation'>Installation</NavLink>
           </li>
         </ul>
       </div>
